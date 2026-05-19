@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "location": "New York, USA",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+    "rating": 5,
+    "tour": "Aegean Dream: Greek Islands",
+    "text": "Absolutely life-changing trip! The attention to detail was extraordinary — from the private yacht cruise at sunset to the authentic cooking class with a local family. Tourly exceeded every expectation.",
+    "date": "October 2024"
+  },
+  {
+    "id": 2,
+    "name": "James Okonkwo",
+    "location": "London, UK",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+    "rating": 5,
+    "tour": "African Safari & Beach Combo",
+    "text": "Watching the Great Migration was the most breathtaking moment of my life. The guides were incredibly knowledgeable and passionate. Then Zanzibar was the perfect ending — paradise on earth.",
+    "date": "August 2024"
+  },
+  {
+    "id": 3,
+    "name": "Priya Sharma",
+    "location": "Mumbai, India",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&q=80",
+    "rating": 5,
+    "tour": "Japan Cherry Blossom Trail",
+    "text": "Japan in cherry blossom season is pure magic, and Tourly helped us experience it perfectly. The itinerary balanced iconic landmarks with hidden gems. The JR Pass and all logistics were seamless.",
+    "date": "April 2024"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Rivera",
+    "location": "Barcelona, Spain",
+    "avatar": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=100&q=80",
+    "rating": 4,
+    "tour": "Amazon & Inca Adventure",
+    "text": "The Inca Trail was challenging but our guide made it unforgettable. The Amazon lodge was unlike anything I've ever experienced — falling asleep to jungle sounds is something I'll treasure forever.",
+    "date": "June 2024"
+  }
+]
