@@ -18,17 +18,6 @@ Explore, discover, and plan memorable journeys through a modern travel experienc
 
 ---
 
-## 🔗 Quick Links
-
-🌐 Live Demo: [Add Deployment URL]
-
-📖 Documentation: [Project Docs]
-
-🐛 Report Issue: [GitHub Issues]
-
-💡 Request Feature: [GitHub Discussions]
-
----
 
 # 📌 About The Project
 
@@ -64,11 +53,8 @@ The application simulates a production-ready travel ecosystem using static JSON 
 
 ---
 
-## Travel Package Page
 
-![Package Preview](https://via.placeholder.com/1200x600?text=Travel+Package+Page)
 
----
 
 # ✨ Key Features
 
