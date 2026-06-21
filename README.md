@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,10,15,20&height=220&section=header&text=✈️%20Tourly&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Premium%20Full-Stack%20Travel%20%26%20Destination%20Discovery%20Platform&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Tourly&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Premium%20Full-Stack%20Travel%20and%20Destination%20Discovery%20Platform&descAlignY=60&descSize=18" width="100%" />
 
 <br/>
 
@@ -417,7 +417,7 @@ Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for full detai
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,10,15,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 
 **⭐ Star this repo if you found it useful — it helps more than you think! ⭐**
 
