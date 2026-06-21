@@ -58,8 +58,7 @@ app.use(
 
             "http://localhost:5173",
 
-            // Replace this after Netlify deployment
-            "https://your-netlify-url.netlify.app"
+            "https://tourlywebapp.netlify.app/"
 
         ],
 
